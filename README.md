@@ -5,7 +5,7 @@ Agenda: To create a task for Frontend develpoer profile.
 ## Requirements
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - IDE: VSCode/ Notepad++, etc.
 
